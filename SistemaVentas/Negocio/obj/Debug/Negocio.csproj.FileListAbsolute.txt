@@ -1,0 +1,14 @@
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\Datos.dll
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\Datos.pdb
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Danny\OneDrive\Escritorio\PracticaIS_04\SistemaVentas\Negocio\obj\Debug\Negocio.csproj.Up2Date
