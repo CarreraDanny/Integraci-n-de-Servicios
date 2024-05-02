@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|c:\\users\\danny\\onedrive\\escritorio\\practica5-is-ventas\\apirest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\apirest\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519072F6-22ED-43C1-998A-C537EC89655E}|Datos\\Datos.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\datos\\productodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519072F6-22ED-43C1-998A-C537EC89655E}|Datos\\Datos.csproj|solutionrelative:datos\\productodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7183008C-0F19-43EC-AE06-2499ACFBF802}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\accesodatos\\modelventas.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7183008C-0F19-43EC-AE06-2499ACFBF802}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\modelventas.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3926CCD8-6A66-40F8-A7FD-74BBD8BACDEB}|Negocio\\Negocio.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3926CCD8-6A66-40F8-A7FD-74BBD8BACDEB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\apirest\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519072F6-22ED-43C1-998A-C537EC89655E}|Datos\\Datos.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\datos\\categoriadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519072F6-22ED-43C1-998A-C537EC89655E}|Datos\\Datos.csproj|solutionrelative:datos\\categoriadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3926CCD8-6A66-40F8-A7FD-74BBD8BACDEB}|Negocio\\Negocio.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\negocio\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3926CCD8-6A66-40F8-A7FD-74BBD8BACDEB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\apirest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4682D9-7D62-46E2-9463-07544268E242}|ApiREST\\ApiREST.csproj|solutionrelative:apirest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:37:05.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Datos\\CategoriaDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\CategoriaDatos.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Datos\\CategoriaDatos.cs",
+              "RelativeToolTip": "Datos\\CategoriaDatos.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:32:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Datos\\ProductoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\ProductoDatos.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Datos\\ProductoDatos.cs",
+              "RelativeToolTip": "Datos\\ProductoDatos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:50:43.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:34:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiREST\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiREST\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:42:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelVentas.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\AccesoDatos\\ModelVentas.Context.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ModelVentas.Context.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\AccesoDatos\\ModelVentas.Context.cs",
+              "RelativeToolTip": "AccesoDatos\\ModelVentas.Context.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:58:41.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiREST\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiREST\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:51:09.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ApiREST\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\ApiREST\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ApiREST\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:44:38.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Negocio\\ProductoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ProductoNegocio.cs",
+              "ToolTip": "C:\\Users\\Danny\\OneDrive\\Escritorio\\Practica5-IS-Ventas\\Negocio\\ProductoNegocio.cs",
+              "RelativeToolTip": "Negocio\\ProductoNegocio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:41:40.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
