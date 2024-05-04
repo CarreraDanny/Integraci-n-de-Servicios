@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ServiciosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cedula" Type="varchar" MaxLength="50" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+    <Property Name="direccion" Type="varchar" MaxLength="50" />
+    <Property Name="telefono" Type="varchar" MaxLength="50" />
+    <Property Name="idCategoria" Type="int" />
+  </EntityType>
+  <Association Name="FK__Clientes__idCate__3C69FB99">
+    <End Role="Categoria" Type="Self.Categoria" Multiplicity="0..1" />
+    <End Role="Clientes" Type="Self.Clientes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Clientes">
+        <PropertyRef Name="idCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ServiciosModelStoreContainer">
+    <EntitySet Name="Categoria" EntityType="Self.Categoria" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Clientes__idCate__3C69FB99" Association="Self.FK__Clientes__idCate__3C69FB99">
+      <End Role="Categoria" EntitySet="Categoria" />
+      <End Role="Clientes" EntitySet="Clientes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
